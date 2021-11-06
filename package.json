@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "description": "node 爬虫模板",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "superagent": "^6.1.0",
+    "turndown": "^7.1.1"
+  }
 }

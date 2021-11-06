@@ -4,9 +4,9 @@
 - superagent
   - SuperAgent 是一个轻量的Ajax API
 - turndown
- - 用来将 HTML 转为 Markdown
+  - 用来将 HTML 转为 Markdown
 - fs
- - 用来将转换好的数据导出到本地
+  - 用来将转换好的数据导出到本地
 
 我们要爬一些数据的时候，是需要用户认证的，所以需要我们手动去设置 Header，这里需要将爬取网站的认证逻辑做下分析，一般是三种：
 - cookie
