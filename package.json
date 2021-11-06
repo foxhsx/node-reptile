@@ -1,0 +1,7 @@
+{
+  "name": "Reptile",
+  "version": "1.0.0",
+  "description": "node 爬虫模板",
+  "main": "index.js",
+  "license": "MIT"
+}
